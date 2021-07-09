@@ -1,0 +1,16 @@
+.Login {
+    background-image: url('./home.jpg');
+}
+.containerPrincipal {
+    position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      border: 1px solid blue;
+      padding: 40px;
+      background-color: rgb(255, 122, 122);
+  }
+  
+  .containerLogin{
+    text-align: center;
+  }
